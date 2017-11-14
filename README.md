@@ -1,2 +1,2 @@
 ## Curriculum Vitae/Resume
-[Curriculum Vitae/Resume](CV.pdf)
+[Curriculum Vitae/Resume](Resume.pdf)
